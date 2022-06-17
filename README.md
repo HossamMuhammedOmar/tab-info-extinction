@@ -1,2 +1,2 @@
-# tab-info-extinction
+# Tab Info
 Chrome Extinction 
